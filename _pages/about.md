@@ -31,13 +31,20 @@ September 2017 - June 2020
 Please check the *Publication* section in the top menu for more information.
 
 # Research Experiences
+Building...(Please check my CV in the top menu)
+
+# Posters
+1. I was invited to submit a poster about our work *A Resource-efficient FIR Filter Design Based on an RAG Improved Algorithm* at ICCS 2023, Huzhou, China. Poster is available [here](http://zhengxiongli08.github.io/files/fir-filter-poster-lzx-v4.pdf)
+
+# Presentations
+1. I was invited to give a 15 minutes presentation about our work *A Resource-efficient FIR Filter Design Based on an RAG Improved Algorithm* at ICCS 2023, Huzhou, China. Slides are available [here](http://zhengxiongli08.github.io/files/ICCS-presentation-lzx-v2.pdf)
 
 # Skills
 ## Programming
-- Verilog for hardware description
-- Python for algorithm prototype design, data analysis and automic script
-- Matlab for module verification and numerical computing
-- C & C++ for high-level hardware description
+- **Verilog** for hardware description
+- **Python** for algorithm prototype design, data analysis and automic script
+- **Matlab** for module verification and numerical computing
+- **C & C++** for high-level hardware description
 
 ## Laboratory Techniques
 Vitis, Vivado, Quartus, Modelsim, FPGA hardware debug, FPGA software development
