@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhengxiong Li（Chinese name: 李正雄）, a senior undergraduate student at [Hongyi Honor College](https://hyxt.whu.edu.cn/), [Wuhan University](https://en.whu.edu.cn/). I major in Microelectronics Science and Engineering. My research interests include Domain-Specific acceleration, parallel computing and heterogeneous computing. I am going to receive an honor bachelor’s degree in Microelectronic Science and Engineering in June, 2024. I just finished my internship in [University of Alberta](https://www.ualberta.ca/index.html), Canada, supervised by Prof. [Venkata Dinavahi](https://apps.ualberta.ca/directory/person/dinavahi), IEEE fellow. I am looking for a PhD program position in 2024 Fall.
+I am Zhengxiong Li（Chinese name: 李正雄）, a senior undergraduate student at [Hongyi Honor College](https://hyxt.whu.edu.cn/), [Wuhan University](https://en.whu.edu.cn/), supervised by Prof. [Xianyang Jiang](https://physics.whu.edu.cn/info/1186/5300.htm) and Prof. [Cheng Lei](https://technology.whu.edu.cn/info/1061/1965.htm). I major in Microelectronics Science and Engineering. My research interests include Domain-Specific acceleration, parallel computing and heterogeneous computing. I am going to receive an honor bachelor’s degree in Microelectronic Science and Engineering in June, 2024. I just finished my internship in [University of Alberta](https://www.ualberta.ca/index.html), Canada, supervised by Prof. [Venkata Dinavahi](https://apps.ualberta.ca/directory/person/dinavahi), IEEE fellow. I am looking for a PhD program position in 2024 Fall.
 
 A data-driven personal website
 ======
