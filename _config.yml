@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhengxiong Li"
 title_separator          : "-"
 name                     : &name "Zhengxiong Li"
-description              : &description "Senior Undergraduate Student"
+description              : &description "PhD Student"
 url                      : https://zhengxiongli08.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhengxiongli08/zhengxiongli08.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhengxiong Li"
   avatar           : "avatar.JPG"
-  bio              : "Senior Undergraduate Student"
-  location         : "Wuhan, China"
+  bio              : "PhD Student"
+  location         : "Madison, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=DP-Drl4AAAAJ&hl=en&authuser=1"
-  email            : "zhengxiongli2024@outlook.com"
+  email            : "zli2793@wisc.edu"
   researchgate     : "https://www.researchgate.net/profile/Zhengxiong-Li-3"
   uri              :
   bitbucket        :
