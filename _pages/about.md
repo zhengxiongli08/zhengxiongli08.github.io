@@ -35,7 +35,7 @@ If you are interested in my profile, please contact me through zhengxiong.li@wis
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2024.09 - present*, PhD, Electrical and Computer Engineering, University of Wicsonsin-Madison, USA
+- *2024.09 - Present*, PhD, Electrical and Computer Engineering, University of Wicsonsin-Madison, USA
 - *2020.09 - 2024.06*, Bachelor, Microelectrinocs Science, Hongyi Honor College, Wuhan University, China
 
 <!-- # 💬 Invited Talks
