@@ -16,11 +16,13 @@ My research interests include GPU workload scheduling, domain-specific accelerat
 
 If you are interested in my research, please contact me at zhengxiong.li@wisc.edu
 
+You can find my latest [CV]({{ "/files/Zhengxiong_Li_CV.pdf" | relative_url }}) here.
+
 # 🔥 News
 - *2026.04*: 🎉 Our paper, *SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines*, was accepted by Euro-Par 2026
-- *2026.03*: 🎉 I was selected as DAC 2026 Young Fellow
+- *2026.03*: 🎉 I was selected as DAC 2026 Young Fellow. See you in Los Angeles!
 - *2025.08*: 🎉 Our paper, *A Scalable Code Generation Flow for Heterogeneous Parallel RTL Simulation using MLIR*, was accepted by HPEC 2025
-- *2025.03*: 🎉 I was selected as DAC 2025 Young Fellow
+- *2025.03*: 🎉 I was selected as DAC 2025 Young Fellow. See you in San Francisco!
 
 # 📝 Publications 
 
@@ -30,9 +32,9 @@ If you are interested in my research, please contact me at zhengxiong.li@wisc.ed
 - Xiaoxiao Li, Taobo Hu, **Zhengxiong Li**, Mengping Long, Zhaoyi Ye, Jin Huang, Yaxiaer Yalikun, Sheng Liu, Yiqiang Liu, Du Wang, Jianghua Wu, Liye Mei, Cheng Lei. [*MRRM: Advanced biomarker alignment in multi-staining pathology images via multi-scale ring rotation-invariant matching*](https://doi.org/10.1109/JBHI.2024.3487630). IEEE Journal of Biomedical and Health Informatics (JBHI), 2024
 - Mengwei Hu, Xianyang Jiang, **Zhengxiong Li**. [*A resource-efficient FIR filter design based on an RAG improved algorithm*](https://doi.org/10.1109/ICCS59502.2023.10367312). International Conference on Circuits and Systems (ICCS), Huzhou, China, 2023
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards
+- *2026.07*, 63rd DAC Young Fellow
+- *2025.07*, 62nd DAC Young Fellow
 
 # 📖 Education
 - *2024.09 - Present*, PhD, Electrical and Computer Engineering, University of Wisconsin-Madison, USA
