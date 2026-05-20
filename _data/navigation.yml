@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "CV"
+    url: "/files/Zhengxiong_Li_CV.pdf"
+    
   - title: "About Me"
     url: "/#about-me"
 
@@ -9,11 +12,11 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  # - title: "Honors and Awards"
-  #   url: "/#-honors-and-awards"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#-education"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
