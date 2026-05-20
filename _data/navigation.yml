@@ -1,8 +1,8 @@
 # main links links
 main:
   - title: "CV"
-    url: "/files/Zhengxiong_Li_CV.pdf"
-    
+    url: "/files/Zhengxiong_Resume.pdf"
+
   - title: "About Me"
     url: "/#about-me"
 

@@ -16,7 +16,7 @@ My research interests include GPU workload scheduling, domain-specific accelerat
 
 If you are interested in my research, please contact me at zhengxiong.li@wisc.edu
 
-You can find my latest [CV]({{ "/files/Zhengxiong_Li_CV.pdf" | relative_url }}) here.
+You can find my latest [CV]({{ "/files/Zhengxiong_Resume.pdf" | relative_url }}) here.
 
 # 🔥 News
 - *2026.04*: 🎉 Our paper, *SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines*, was accepted by Euro-Par 2026
