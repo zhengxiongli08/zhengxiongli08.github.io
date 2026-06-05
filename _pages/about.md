@@ -26,7 +26,7 @@ You can find my latest [CV]({{ "/files/Zhengxiong_Resume.pdf" | relative_url }})
 
 # 📝 Publications 
 
-- **Zhengxiong Li**, Tsung-Wei Huang, Umit Ogras. *SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines*. International European Conference on Parallel and Distributed Computing (Euro-Par), Pisa, Italy, 2026
+- **Zhengxiong Li**, Tsung-Wei Huang, Umit Ogras. [*SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines*](https://arxiv.org/abs/2606.05495). International European Conference on Parallel and Distributed Computing (Euro-Par), Pisa, Italy, 2026
 - Tong Jie, **Zhengxiong Li**, Umit Yusuf Ogras, and Tsung-Wei Huang. [*A Scalable Code Generation Flow for Heterogeneous Parallel RTL Simulation using MLIR*](https://doi.org/10.1109/HPEC67600.2025.11196471). IEEE High Performance Extreme Computing Conference (HPEC), virtual, 2025
 - Xiaoxiao Li<sup>&dagger;</sup>, **Zhengxiong Li**<sup>&dagger;</sup>, Taobo Hu, Mengping Long, Xiao Ma, Jin Huang, Yiqiang Liu, Yaxiaer Yalikun, Sheng Liu, Du Wang, Jianghua Wu, Liye Mei, Cheng Lei. [*MSGM: An Advanced Deep Multi-Size Guiding Matching Network for Whole Slide Histopathology Images Addressing Staining Variation and Low Visibility Challenges*](https://doi.org/10.1109/JBHI.2024.3417937). IEEE Journal of Biomedical and Health Informatics (JBHI), 2024
 <small><sup>&dagger;</sup> Equal contribution.</small>
