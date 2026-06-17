@@ -19,6 +19,7 @@ If you are interested in my research, please contact me at zhengxiong.li@wisc.ed
 You can find my latest [CV]({{ "/files/Zhengxiong_Resume.pdf" | relative_url }}) here.
 
 # 🔥 News
+- *2026.06*: 🎉 I was awarded David and Sarah Epstein Teaching Fellowship
 - *2026.04*: 🎉 Our paper, *SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines*, was accepted by Euro-Par 2026
 - *2026.03*: 🎉 I was selected as DAC 2026 Young Fellow. See you in Los Angeles!
 - *2025.08*: 🎉 Our paper, *A Scalable Code Generation Flow for Heterogeneous Parallel RTL Simulation using MLIR*, was accepted by HPEC 2025
@@ -36,6 +37,7 @@ You can find my latest [CV]({{ "/files/Zhengxiong_Resume.pdf" | relative_url }})
 
 # 🎖 Honors and Awards
 - *2026.07*, 63rd DAC Young Fellow
+- *2026.06*, David and Sarah Epstein Teaching Fellowship
 - *2025.07*, 62nd DAC Young Fellow
 
 # 📖 Education
