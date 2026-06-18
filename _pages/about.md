@@ -19,7 +19,7 @@ If you are interested in my research, please contact me at zhengxiong.li@wisc.ed
 You can find my latest [CV]({{ "/files/Zhengxiong_Resume.pdf" | relative_url }}) here.
 
 # 🔥 News
-- *2026.06*: 🎉 I was awarded David and Sarah Epstein Teaching Fellowship
+- *2026.06*: 🎉 I was awarded UW-Madison David and Sarah Epstein Teaching Fellowship
 - *2026.04*: 🎉 Our paper, *SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines*, was accepted by Euro-Par 2026
 - *2026.03*: 🎉 I was selected as DAC 2026 Young Fellow. See you in Los Angeles!
 - *2025.08*: 🎉 Our paper, *A Scalable Code Generation Flow for Heterogeneous Parallel RTL Simulation using MLIR*, was accepted by HPEC 2025
@@ -36,9 +36,9 @@ You can find my latest [CV]({{ "/files/Zhengxiong_Resume.pdf" | relative_url }})
 - Mengwei Hu, Xianyang Jiang, **Zhengxiong Li**. [*A Resource-efficient FIR Filter Design Based on an RAG Improved Algorithm*](https://doi.org/10.1109/ICCS59502.2023.10367312). International Conference on Circuits and Systems (ICCS), Huzhou, China, 2023
 
 # 🎖 Honors and Awards
-- *2026.07*, 63rd DAC Young Fellow
-- *2026.06*, David and Sarah Epstein Teaching Fellowship
-- *2025.07*, 62nd DAC Young Fellow
+- *2026.07*, 63rd Design Automation Conference (DAC) Young Fellow
+- *2026.06*, UW-Madison David and Sarah Epstein Teaching Fellowship
+- *2025.07*, 62nd Design Automation Conference (DAC) Young Fellow
 
 # 📖 Education
 - *2024.09 - Present*, PhD, Electrical and Computer Engineering, University of Wisconsin-Madison, USA
