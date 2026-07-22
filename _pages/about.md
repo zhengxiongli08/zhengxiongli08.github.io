@@ -35,14 +35,18 @@ You can find my latest [CV]({{ "/files/Zhengxiong_Resume.pdf" | relative_url }})
 <small><sup>&dagger;</sup> Equal contribution.</small>
 - Mengwei Hu, Xianyang Jiang, **Zhengxiong Li**. [*A Resource-efficient FIR Filter Design Based on an RAG Improved Algorithm*](https://doi.org/10.1109/ICCS59502.2023.10367312). International Conference on Circuits and Systems (ICCS), Huzhou, China, 2023
 
-# 🎖 Honors and Awards
+# 🎖️ Honors & Awards
 - *2026.07*, 63rd Design Automation Conference (DAC) Young Fellow
 - *2026.06*, UW-Madison David and Sarah Epstein Fellowship
 - *2025.07*, 62nd Design Automation Conference (DAC) Young Fellow
 
-# 📖 Education
+# 🎓 Education
 - *2024.09 - Present*, PhD, Electrical and Computer Engineering, University of Wisconsin-Madison, USA
 - *2020.09 - 2024.06*, Bachelor, Microelectronics Science, Hongyi Honor College, Wuhan University, China
+
+# 📖 Academic Services
+- *2026.07*, International Conference on Compilers, Architectures, and Synthesis for Embedded Systems (CASES) 2026 Artifact Evaluation Committee
+- *Spring 2023*, Teaching Assistant, Digital Logic Circuit Lab
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
