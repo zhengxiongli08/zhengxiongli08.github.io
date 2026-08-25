@@ -19,9 +19,9 @@ If you are interested in my research, please contact me at zhengxiong.li@wisc.ed
 You can find my latest [CV]({{ "/files/Zhengxiong_Resume.pdf" | relative_url }}) here.
 
 # 🔥 News
-- *2026.08*: 🎉 Our paper, *CREDIT: Cost-guided Reduction-reuse with Efficient DSMEM Inter-CTA Tiling*, was accepted by HPEC 2026
+- *2026.08*: 🎉 Our paper, *CREDIT: Cost-guided Reduction-reuse with Efficient DSMEM Inter-CTA Tiling*, was accepted by HPEC 2026 as a <span style="color:red">best paper candidate</span>!
 - *2026.06*: 🎉 I was awarded UW-Madison David and Sarah Epstein Fellowship
-- *2026.04*: 🎉 Our paper, *SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines*, was accepted by Euro-Par 2026
+- *2026.04*: 🎉 Our paper, *SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines*, was accepted by Euro-Par 2026. See you in Italy!
 - *2026.03*: 🎉 I was selected as DAC 2026 Young Fellow. See you in Los Angeles!
 - *2025.08*: 🎉 Our paper, *A Scalable Code Generation Flow for Heterogeneous Parallel RTL Simulation using MLIR*, was accepted by HPEC 2025
 - *2025.03*: 🎉 I was selected as DAC 2025 Young Fellow. See you in San Francisco!
@@ -29,7 +29,7 @@ You can find my latest [CV]({{ "/files/Zhengxiong_Resume.pdf" | relative_url }})
 # 📝 Publications 
 
 - **Zhengxiong Li**, Tsung-Wei Huang, Umit Ogras. *CREDIT: Cost-guided Reduction-reuse with Efficient DSMEM Inter-CTA Tiling*. IEEE High Performance Extreme Computing Conference (HPEC), virtual, 2026
-- **Zhengxiong Li**, Tsung-Wei Huang, Umit Ogras. [*SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines*](https://arxiv.org/abs/2606.05495). International European Conference on Parallel and Distributed Computing (Euro-Par), Pisa, Italy, 2026
+- **Zhengxiong Li**, Tsung-Wei Huang, Umit Ogras. [*SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines*](https://link.springer.com/chapter/10.1007/978-3-032-35251-4_17). International European Conference on Parallel and Distributed Computing (Euro-Par), Pisa, Italy, 2026
 - Tong Jie, **Zhengxiong Li**, Umit Yusuf Ogras, and Tsung-Wei Huang. [*A Scalable Code Generation Flow for Heterogeneous Parallel RTL Simulation using MLIR*](https://doi.org/10.1109/HPEC67600.2025.11196471). IEEE High Performance Extreme Computing Conference (HPEC), virtual, 2025
 - Xiaoxiao Li<sup>&dagger;</sup>, **Zhengxiong Li**<sup>&dagger;</sup>, Taobo Hu, Mengping Long, Xiao Ma, Jin Huang, Yiqiang Liu, Yaxiaer Yalikun, Sheng Liu, Du Wang, Jianghua Wu, Liye Mei, Cheng Lei. [*MSGM: An Advanced Deep Multi-Size Guiding Matching Network for Whole Slide Histopathology Images Addressing Staining Variation and Low Visibility Challenges*](https://doi.org/10.1109/JBHI.2024.3417937). IEEE Journal of Biomedical and Health Informatics (JBHI), 2024
 <small><sup>&dagger;</sup> Equal contribution.</small>
