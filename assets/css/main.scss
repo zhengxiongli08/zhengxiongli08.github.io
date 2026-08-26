@@ -110,7 +110,10 @@ h1:before, .anchor:before {
 
 .btn--small {
   padding: 0.35em 0.7em;
+  font-weight: 700;
   letter-spacing: 0.025em;
+  line-height: 1.25;
+  text-decoration: none;
 }
 
 .page__content a.btn,
