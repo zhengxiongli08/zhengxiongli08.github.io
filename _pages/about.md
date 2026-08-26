@@ -16,7 +16,7 @@ My research interests include GPU workload scheduling, domain-specific accelerat
 
 If you are interested in my research, please contact me at zhengxiong.li@wisc.edu
 
-You can find my latest [CV]({{ "/files/Zhengxiong_Resume.pdf" | relative_url }}) here.
+You can find my latest [CV](/files/Zhengxiong_Resume.pdf) here.
 
 # 🔥 News
 - *2026.08*: 🎉 Our paper, *CREDIT: Cost-guided Reduction-reuse with Efficient DSMEM Inter-CTA Tiling*, was accepted by HPEC 2026 as a <span style="color:red">best paper candidate</span>!
@@ -40,11 +40,11 @@ You can find my latest [CV]({{ "/files/Zhengxiong_Resume.pdf" | relative_url }})
   International European Conference on Parallel and Distributed Computing (Euro-Par), Pisa, Italy, 2026
 - [*A Scalable Code Generation Flow for Heterogeneous Parallel RTL Simulation using MLIR*](https://doi.org/10.1109/HPEC67600.2025.11196471)
   [DOI](https://doi.org/10.1109/HPEC67600.2025.11196471){: .btn .btn--small }
-  [PDF](/files/HPEC25_HeteroRTL.pdf){: .btn .btn--small }
+  [PDF](/files/HPEC25_HeteroRTL_Paper.pdf){: .btn .btn--small }  
   Tong Jie, **Zhengxiong Li**, Umit Ogras, Tsung-Wei Huang  
   IEEE High Performance Extreme Computing Conference (HPEC), virtual, 2025
 - [*MSGM: An Advanced Deep Multi-Size Guiding Matching Network for Whole Slide Histopathology Images Addressing Staining Variation and Low Visibility Challenges*](https://doi.org/10.1109/JBHI.2024.3417937)
-  [DOI](https://doi.org/10.1109/JBHI.2024.3417937){: .btn .btn--small }
+  [DOI](https://doi.org/10.1109/JBHI.2024.3417937){: .btn .btn--small }  
   Xiaoxiao Li<sup>&dagger;</sup>, **Zhengxiong Li**<sup>&dagger;</sup>, Taobo Hu, Mengping Long, Xiao Ma, Jin Huang, Yiqiang Liu, Yaxiaer Yalikun, Sheng Liu, Du Wang, Jianghua Wu, Liye Mei, Cheng Lei  <small><sup>&dagger;</sup> Equal contribution.</small>  
   IEEE Journal of Biomedical and Health Informatics (JBHI), 2024
 - [*MRRM: Advanced Biomarker Alignment in Multi-Staining Pathology Images via Multi-Scale Ring Rotation-Invariant Matching*](https://doi.org/10.1109/JBHI.2024.3487630)
