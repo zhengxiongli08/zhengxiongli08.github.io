@@ -25,6 +25,7 @@ You can find my latest [CV](/files/Zhengxiong_Resume.pdf) here.
 - *2026.03*: 🎉 I was selected as DAC 2026 Young Fellow. See you in Los Angeles!
 - *2025.08*: 🎉 Our paper, *A Scalable Code Generation Flow for Heterogeneous Parallel RTL Simulation using MLIR*, was accepted by HPEC 2025
 - *2025.03*: 🎉 I was selected as DAC 2025 Young Fellow. See you in San Francisco!
+- *2024.09*: 🎉 Start my PhD journey at UW-Madison!
 
 # 📝 Publications 
 - *CREDIT: Cost-guided Reduction-reuse with Efficient DSMEM Inter-CTA Tiling*
