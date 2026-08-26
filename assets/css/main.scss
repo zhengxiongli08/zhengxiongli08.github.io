@@ -108,6 +108,7 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+// Change buttons for Code/Paper
 .btn--small {
   padding: 0.35em 0.7em;
   font-weight: 700;
@@ -116,10 +117,18 @@ h1:before, .anchor:before {
   text-decoration: none;
 }
 
+// Remove the underline in buttons
 .page__content a.btn,
 .page__content a.btn:visited,
 .page__content a.btn:hover,
 .page__content a.btn:focus,
 .page__content a.btn:active {
   text-decoration: none;
+}
+
+// Smaller equal contribution footnote
+.publication-note {
+  font-size: 0.75em;
+  color: #666;
+  line-height: 1.3;
 }

@@ -45,11 +45,11 @@ You can find my latest [CV](/files/Zhengxiong_Resume.pdf) here.
   IEEE High Performance Extreme Computing Conference (HPEC), virtual, 2025
 - [*MSGM: An Advanced Deep Multi-Size Guiding Matching Network for Whole Slide Histopathology Images Addressing Staining Variation and Low Visibility Challenges*](https://doi.org/10.1109/JBHI.2024.3417937)
   [DOI](https://doi.org/10.1109/JBHI.2024.3417937){: .btn .btn--small }  
-  Xiaoxiao Li<sup>&dagger;</sup>, **Zhengxiong Li**<sup>&dagger;</sup>, Taobo Hu, Mengping Long, Xiao Ma, Jin Huang, Yiqiang Liu, Yaxiaer Yalikun, Sheng Liu, Du Wang, Jianghua Wu, Liye Mei, Cheng Lei  <small><sup>&dagger;</sup> Equal contribution.</small>  
+  Xiaoxiao Li<sup>&dagger;</sup>, **Zhengxiong Li**<sup>&dagger;</sup>, Taobo Hu, Mengping Long, Xiao Ma, Jin Huang, Yiqiang Liu, Yaxiaer Yalikun, Sheng Liu, Du Wang, Jianghua Wu, Liye Mei, Cheng Lei  <small class="publication-note"><sup>&dagger;</sup> Equal contribution</small>  
   IEEE Journal of Biomedical and Health Informatics (JBHI), 2024
 - [*MRRM: Advanced Biomarker Alignment in Multi-Staining Pathology Images via Multi-Scale Ring Rotation-Invariant Matching*](https://doi.org/10.1109/JBHI.2024.3487630)
   [DOI](https://doi.org/10.1109/JBHI.2024.3487630){: .btn .btn--small }  
-  Xiaoxiao Li<sup>&dagger;</sup>, Taobo Hu<sup>&dagger;</sup>, **Zhengxiong Li**<sup>&dagger;</sup>, Mengping Long, Zhaoyi Ye, Jin Huang, Yaxiaer Yalikun, Sheng Liu, Yiqiang Liu, Du Wang, Jianghua Wu, Liye Mei, Cheng Lei  l><sup>&dagger;</sup> Equal contribution.</small>  
+  Xiaoxiao Li<sup>&dagger;</sup>, Taobo Hu<sup>&dagger;</sup>, **Zhengxiong Li**<sup>&dagger;</sup>, Mengping Long, Zhaoyi Ye, Jin Huang, Yaxiaer Yalikun, Sheng Liu, Yiqiang Liu, Du Wang, Jianghua Wu, Liye Mei, Cheng Lei  <small class="publication-note"><sup>&dagger;</sup> Equal contribution</small>  
   IEEE Journal of Biomedical and Health Informatics (JBHI), 2024
 - [*A Resource-efficient FIR Filter Design Based on an RAG Improved Algorithm*](https://doi.org/10.1109/ICCS59502.2023.10367312)
   [DOI](https://doi.org/10.1109/ICCS59502.2023.10367312){: .btn .btn--small }
