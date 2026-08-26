@@ -12,7 +12,7 @@ redirect_from:
 
 I am Zhengxiong Li (李正雄), an ECE PhD student at University of Wisconsin-Madison, supervised by [Prof. Umit Ogras](https://directory.engr.wisc.edu/ece/Faculty/Ogras_/) and [Prof. Tsung-Wei Huang](https://engineering.wisc.edu/directory/profile/tsung-wei-huang/). I graduated from Hongyi Honor College, Wuhan University (武汉大学弘毅学堂) with a bachelor's degree in microelectronics science and engineering. I was fortunate to be supervised by [Prof. Xianyang Jiang](https://physics.whu.edu.cn/info/1186/5300.htm) and [Prof. Cheng Lei](https://technology.whu.edu.cn/info/1061/1965.htm). I was a research intern at University of Alberta, Canada, supervised by [Prof. Venkata Dinavahi](https://apps.ualberta.ca/directory/person/dinavahi). 
 
-My research interests include GPU workload scheduling, domain-specific acceleration and machine learning systems, with an emphasis on performance optimization and energy efficiency.
+My research interests include GPU workload scheduling, LLM inference acceleration and differentiable optimization, with an emphasis on performance optimization and energy efficiency.
 
 If you are interested in my research, please contact me at zhengxiong.li@wisc.edu
 
@@ -60,11 +60,13 @@ You can find my latest [CV](/files/Zhengxiong_Resume.pdf) here.
   International Conference on Circuits and Systems (ICCS), Huzhou, China, 2023
 
 # 🎖️ Honors & Awards
+- *2026.08*, High Performance Extreme Computing Conference (HPEC) 2026 Outstanding Paper Award
 - *2026.07*, 63rd Design Automation Conference (DAC) Young Fellow
 - *2026.06*, UW-Madison David and Sarah Epstein Fellowship
 - *2025.07*, 62nd Design Automation Conference (DAC) Young Fellow
 
 # 📖 Academic Services
+- *2026*, Teaching Assistant, Introductory Experience in Electrical Engineering
 - *2026*, Artifact Evaluation Committee, International Conference on Compilers, Architectures, and Synthesis for Embedded Systems (CASES) 
 - *2023*, Teaching Assistant, Digital Logic Circuit Lab
 
