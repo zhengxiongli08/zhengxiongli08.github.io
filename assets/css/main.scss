@@ -116,3 +116,11 @@ h1:before, .anchor:before {
   line-height: 1.25;
   text-decoration: none;
 }
+
+.page__content a.btn,
+.page__content a.btn:visited,
+.page__content a.btn:hover,
+.page__content a.btn:focus,
+.page__content a.btn:active {
+  text-decoration: none;
+}
