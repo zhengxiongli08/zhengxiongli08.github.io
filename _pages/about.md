@@ -28,12 +28,12 @@ You can find my latest [CV](/files/Zhengxiong_Resume.pdf) here.
 - *2024.09*: 🎉 Start my PhD journey at UW-Madison!
 
 # 📝 Publications 
-- *CREDIT: Cost-guided Reduction-reuse with Efficient DSMEM Inter-CTA Tiling*  
+- *CREDIT: Cost-guided Reduction-reuse with Efficient DSMEM Inter-CTA Tiling* [**Best Paper Candidate**]  
   [Preprint](https://arxiv.org/abs/2609.01864){: .btn .btn--small }
   [PDF](/files/HPEC26_CREDIT.pdf){: .btn .btn--small }
   [Code](https://github.com/zhengxiongli08/CREDIT){: .btn .btn--small }  
   **Zhengxiong Li**, Tsung-Wei Huang, Umit Ogras  
-  IEEE High Performance Extreme Computing Conference (HPEC), virtual, 2026
+  IEEE High Performance Extreme Computing Conference (HPEC), virtual, 2026. **Best Paper Candidate**
 - [*SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines*](https://link.springer.com/chapter/10.1007/978-3-032-35251-4_17)  
   [DOI](https://doi.org/10.1007/978-3-032-35251-4_17){: .btn .btn--small }
   [PDF](/files/EuroPar26_SET_Paper.pdf){: .btn .btn--small }
