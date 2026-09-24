@@ -33,7 +33,7 @@ You can find my latest [CV](/files/Zhengxiong_Resume.pdf) here.
   [PDF](/files/HPEC26_CREDIT.pdf){: .btn .btn--small }
   [Code](https://github.com/zhengxiongli08/CREDIT){: .btn .btn--small }  
   **Zhengxiong Li**, Tsung-Wei Huang, Umit Ogras  
-  IEEE High Performance Extreme Computing Conference (HPEC), virtual, 2026. **Best Paper Candidate**
+  IEEE High Performance Extreme Computing Conference (HPEC), virtual, 2026
 - [*SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines*](https://link.springer.com/chapter/10.1007/978-3-032-35251-4_17)  
   [DOI](https://doi.org/10.1007/978-3-032-35251-4_17){: .btn .btn--small }
   [PDF](/files/EuroPar26_SET_Paper.pdf){: .btn .btn--small }
