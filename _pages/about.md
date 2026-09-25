@@ -30,7 +30,8 @@ You can find my latest [CV](/files/Zhengxiong_Resume.pdf) here.
 # 📝 Publications 
 - *CREDIT: Cost-guided Reduction-reuse with Efficient DSMEM Inter-CTA Tiling* [**Best Paper Honorable Mention**]  
   [Preprint](https://arxiv.org/abs/2609.01864){: .btn .btn--small }
-  [PDF](/files/HPEC26_CREDIT.pdf){: .btn .btn--small }
+  [PDF](/files/HPEC26_CREDIT_Paper.pdf){: .btn .btn--small }
+  [Slides](/files/HPEC26_CREDIT_Slides.pdf){: .btn .btn--small }
   [Code](https://github.com/zhengxiongli08/CREDIT){: .btn .btn--small }  
   **Zhengxiong Li**, Tsung-Wei Huang, Umit Ogras  
   IEEE High Performance Extreme Computing Conference (HPEC), virtual, 2026
