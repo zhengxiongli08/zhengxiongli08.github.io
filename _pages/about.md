@@ -19,7 +19,7 @@ If you are interested in my research, please contact me at zhengxiong.li@wisc.ed
 You can find my latest [CV](/files/Zhengxiong_Resume.pdf) here.
 
 # 🔥 News
-- *2026.08*: 🎉 Our paper, *CREDIT: Cost-guided Reduction-reuse with Efficient DSMEM Inter-CTA Tiling*, was accepted by HPEC 2026 as a best paper candidate!
+- *2026.08*: 🎉 Our paper, *CREDIT: Cost-guided Reduction-reuse with Efficient DSMEM Inter-CTA Tiling*, was accepted by HPEC 2026 as a best paper candidate with an outstanding paper award!
 - *2026.06*: 🎉 I was awarded UW-Madison David and Sarah Epstein Fellowship
 - *2026.04*: 🎉 Our paper, *SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines*, was accepted by Euro-Par 2026. See you in Italy!
 - *2026.03*: 🎉 I was selected as DAC 2026 Young Fellow. See you in Los Angeles!
@@ -28,7 +28,7 @@ You can find my latest [CV](/files/Zhengxiong_Resume.pdf) here.
 - *2024.09*: 🎉 Start my PhD journey at UW-Madison!
 
 # 📝 Publications 
-- *CREDIT: Cost-guided Reduction-reuse with Efficient DSMEM Inter-CTA Tiling* [**Best Paper Candidate**]  
+- *CREDIT: Cost-guided Reduction-reuse with Efficient DSMEM Inter-CTA Tiling* [**Best Paper Honorable Mention**]  
   [Preprint](https://arxiv.org/abs/2609.01864){: .btn .btn--small }
   [PDF](/files/HPEC26_CREDIT.pdf){: .btn .btn--small }
   [Code](https://github.com/zhengxiongli08/CREDIT){: .btn .btn--small }  
